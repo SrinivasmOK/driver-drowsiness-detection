@@ -1,0 +1,42 @@
+# Ignore Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environment folders
+venv/
+.env/
+
+# Ignore OS-specific/system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore IDE/editor configs
+.vscode/
+.idea/
+*.swp
+
+# Ignore temporary/log/output files
+*.log
+*.bak
+*.tmp
+
+# Ignore video or large media files (optional)
+*.mp4
+*.avi
+*.mov
+*.gif
+
+# Ignore model files (optional - if you're using ML models)
+*.h5
+*.pt
+*.onnx
+*.pb
+
+# Ignore compiled files or executables
+*.exe
+*.dll
+*.so
+*.out
+*.app
