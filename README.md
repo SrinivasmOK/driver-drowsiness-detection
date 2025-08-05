@@ -1,5 +1,11 @@
 # 🛑 Driver Drowsiness Detection System (Real-Time)
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-Real--Time-FF0000)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 This project is a real-time driver drowsiness detection system that monitors up to 5 faces using MediaPipe, OpenCV, and Pygame. It detects eye closure and yawning, and plays alert sounds to prevent accidents.
 
 ---
