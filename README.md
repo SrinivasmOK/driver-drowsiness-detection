@@ -22,11 +22,10 @@ This project is a real-time driver drowsiness detection system that monitors up 
 
 ## 📸 Sample Output
 
-If `sample_image(1).jpg`, `sample_image(2).jpg`, and `sample_image(3).jpg` exist, you’ll see sample frames below:
+![Sample 1](sample_image1.png)  
+![Sample 2](sample_image2.png)  
+![Sample 3](sample_image3.png)
 
-![Sample 1](sample_image(1).jpg)
-![Sample 2](sample_image(2).jpg)
-![Sample 3](sample_image(3).jpg)
 
 ---
 
